@@ -48,7 +48,7 @@ The project provides a framework for predicting Customer Lifetime Value through 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/snehapadgaonkar/CLV-Prediction.git
-   cd repo-name
+   cd CLV-Prediction
 2. **Load the Dataset**: 
    Ensure you have the dataset in the specified location or update the path in the notebook.
 3. **Run the Notebook**: 
